@@ -19,6 +19,14 @@ Jun 2017 | Domain-driven design
 Feb 2017 | Programming and politics - it's more similar than you believe
 and many more
 
+## Upcoming talks
+Conference | Location | Date | Talk title | URL
+--- | --- | --- | --- | ---
+JCON | Dusseldorf | 09. oct 2018 | 9 ways to test your legacy code | http://jcon.one/en |
+JavaDay | Istanbul | 15.-16. mar 2019 | 9 ways to test your legacy code | https://javaday.istanbul/ | 
+
+
+
 
 ## Contact
 Mads Opheim
