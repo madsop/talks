@@ -26,7 +26,7 @@ Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
 Devoxx Ukraine | Kiev | 23.-24. nov 2018 | IoT powered by Microprofile – Microservices in practice | https://dvua18.confinabox.com/talk/NBH-1424/IoT_powered_by_Microprofile_%E2%80%93_Microservices_in_practice
 Devoxx Ukraine | Kiev | 23.-24. nov 2018 | 9 ways to test your spaghetti code | https://dvua18.confinabox.com/talk/XGY-1566/9_ways_to_test_your_spaghetti_code
-javaBin Stavanger, JUG meeting | Trondheim, Norway | 28. nov 2018 | IoT powered by MicroProfile - Microservices in practice | TBD
+javaBin Trondheim, JUG meeting | Trondheim, Norway | 28. nov 2018 | IoT powered by MicroProfile - Microservices in practice | TBD
 JavaDay | Istanbul | 15.-16. mar 2019 | 9 ways to test your spaghetti code | https://javaday.istanbul/ | 
 
 
