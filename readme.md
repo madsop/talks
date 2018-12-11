@@ -3,6 +3,7 @@
 ## Conferences
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
+javaBin Trondheim, JUG meeting | Trondheim, Norway | 28. nov 2018 | IoT powered by MicroProfile - Microservices in practice (with Rustam Mehmandarov) | https://www.meetup.com/javaBin-Trondheim/events/255193377/ |
 Devoxx Ukraine | Kiev, Ukraine | 23.-24. nov 2018 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) | https://dvua18.confinabox.com/talk/NBH-1424/IoT_powered_by_Microprofile_%E2%80%93_Microservices_in_practice |
 Devoxx Ukraine | Kiev, Ukraine | 23.-24. nov 2018 | 9 ways to test your spaghetti code | https://dvua18.confinabox.com/talk/XGY-1566/9_ways_to_test_your_spaghetti_code |
 JCON | Dusseldorf, Germany | 09. oct 2018 | 9 ways to test your spaghetti code | http://jcon.one/en |
@@ -28,7 +29,6 @@ and many more
 ## Upcoming talks
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
-javaBin Trondheim, JUG meeting | Trondheim, Norway | 28. nov 2018 | IoT powered by MicroProfile - Microservices in practice (with Rustam Mehmandarov) | https://www.meetup.com/javaBin-Trondheim/events/255193377/ |
 DDD Europe | Amsterdam, Netherlands | 31. jan - 1. feb 2019 | Make your tests tell the story of your domain (with Anne Landro) | https://dddeurope.com/2019/speakers/mads-opheim/ |
 JavaDay | Istanbul, Turkey | 15.-16. mar 2019 | 9 ways to test your spaghetti code | https://javaday.istanbul/ | 
 
