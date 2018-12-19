@@ -4,8 +4,8 @@
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
 javaBin Trondheim, JUG meeting | Trondheim, Norway | 28. nov 2018 | IoT powered by MicroProfile - Microservices in practice (with Rustam Mehmandarov) | https://www.meetup.com/javaBin-Trondheim/events/255193377/ |
-Devoxx Ukraine | Kiev, Ukraine | 23.-24. nov 2018 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) | https://dvua18.confinabox.com/talk/NBH-1424/IoT_powered_by_Microprofile_%E2%80%93_Microservices_in_practice |
-Devoxx Ukraine | Kiev, Ukraine | 23.-24. nov 2018 | 9 ways to test your spaghetti code | https://dvua18.confinabox.com/talk/XGY-1566/9_ways_to_test_your_spaghetti_code |
+Devoxx Ukraine | Kiev, Ukraine | 23.-24. nov 2018 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) | Video: https://www.youtube.com/watch?v=r6bhFOr_jNg Info: https://dvua18.confinabox.com/talk/NBH-1424/IoT_powered_by_Microprofile_%E2%80%93_Microservices_in_practice |
+Devoxx Ukraine | Kiev, Ukraine | 23.-24. nov 2018 | 9 ways to test your spaghetti code | Video: https://www.youtube.com/watch?v=ZMuI524OP-8  Info: https://dvua18.confinabox.com/talk/XGY-1566/9_ways_to_test_your_spaghetti_code |
 JCON | Dusseldorf, Germany | 09. oct 2018 | 9 ways to test your spaghetti code | http://jcon.one/en |
 javaBin Stavanger, JUG meeting | Stavanger, Norway | 22. aug 2018 | IoT powered by MicroProfile - Microservices in practice (with Rustam Mehmandarov) | https://www.meetup.com/javaBin-Stavanger/events/253537920/ |
 Voxxed Days Bucharest | Bucharest, Romania | 22.-23. mar 2018 | IoT powered by MicroProfile – Microservices in practice (with Rustam Mehmandarov) | https://voxxeddays.com/romania/2018/01/16/iot-powered-by-microprofile-microservices-in-practice/ |
