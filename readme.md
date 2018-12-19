@@ -30,8 +30,8 @@ and many more
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
 DDD Europe | Amsterdam, Netherlands | 31. jan - 1. feb 2019 | Make your tests tell the story of your domain (with Anne Landro) | https://dddeurope.com/2019/speakers/mads-opheim/ |
-JavaDay | Istanbul, Turkey | 15.-16. mar 2019 | 9 ways to test your spaghetti code | https://javaday.istanbul/ | 
-
+JavaDay | Istanbul, Turkey | 16. mar 2019 | 9 ways to test your spaghetti code | https://javaday.istanbul/speaker/mads-opheim/ | 
+Booster | Bergen, Norway | 13.-15. mar 2019 | Domain driven design in the real world | https://2019.boosterconf.no/
 
 
 
