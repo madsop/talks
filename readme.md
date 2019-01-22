@@ -3,6 +3,7 @@
 ## Conferences
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
+DDD Norway meetup | Oslo, Norway | 22. Jan 2019 | Make your tests tell the story of your domain (with Anne Landro) | <a href="https://www.meetup.com/dddnorway/events/257968490/">Link</a> |
 javaBin Trondheim, JUG meeting | Trondheim, Norway | 28. Nov 2018 | IoT powered by MicroProfile - Microservices in practice (with Rustam Mehmandarov) | <a href="https://www.meetup.com/javaBin-Trondheim/events/255193377/">Link</a> |
 Devoxx Ukraine | Kiev, Ukraine | 23.-24. Nov 2018 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) |<a href="https://www.youtube.com/watch?v=r6bhFOr_jNg">Video</a> <a href="https://dvua18.confinabox.com/talk/NBH-1424/IoT_powered_by_Microprofile_%E2%80%93_Microservices_in_practice">Info</a> |
 Devoxx Ukraine | Kiev, Ukraine | 23.-24. Nov 2018 | 9 ways to test your spaghetti code |<a href="https://www.youtube.com/watch?v=ZMuI524OP-8">Video</a> <a href="https://dvua18.confinabox.com/talk/XGY-1566/9_ways_to_test_your_spaghetti_code">Info</a> |
@@ -29,7 +30,6 @@ and many more
 ## Upcoming talks
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
-DDD Norway meetup | Oslo, Norway | 22. Jan 2019 | Make your tests tell the story of your domain (with Anne Landro) | <a href="https://www.meetup.com/dddnorway/events/257968490/">Link</a> |
 DDD Europe | Amsterdam, Netherlands | 31. Jan - 1. Feb 2019 | Make your tests tell the story of your domain (with Anne Landro) | <a href="https://dddeurope.com/2019/speakers/mads-opheim/">Link</a> |
 Booster | Bergen, Norway | 14. Mar 2019 | Domain driven design in the real world (with Anne Landro) | <a href="https://2019.boosterconf.no/talks/1216">Link</a>
 JavaDay | Istanbul, Turkey | 15.-16. Mar 2019 | 9 ways to test your spaghetti code | <a href="https://javaday.istanbul/">Link</a> | 
