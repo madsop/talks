@@ -35,6 +35,7 @@ Booster | Bergen, Norway | 14. Mar 2019 | Domain driven design in the real world
 JavaDay | Istanbul, Turkey | 15.-16. Mar 2019 | 9 ways to test your spaghetti code | <a href="https://javaday.istanbul/">Link</a> | 
 JBCNConf | Barcelona, Catalonia | 27.-28. May 2019 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) | <a href="http://www.jbcnconf.com/2019/infoTalk.html?id=5c44693a9034ae38180b14b2">Link</a>
 Nordic Testing Days | Tallinn, Estonia | 30. May 2019 | 9 ways to test your spaghetti code | <a href="https://nordictestingdays.eu/events/tracks/9-ways-test-your-spaghetti-code">Link</a>
+Riga Dev Days | Riga, Latvia | 31. May 2019 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) | <a href="https://2019.rigadevdays.lv/event-sessions/iot-powered-by-microprofile-microservices-in-practice/">Link</a>
 
 
 ## Contact
