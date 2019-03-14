@@ -3,6 +3,7 @@
 ## Conferences
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
+Booster | Bergen, Norway | 14. Mar 2019 | Domain driven design in the real world (with Anne Landro) | <a href="https://2019.boosterconf.no/talks/1216">Link</a>
 DDD Europe | Amsterdam, Netherlands | 31. Jan - 1. Feb 2019 | Make your tests tell the story of your domain (with Anne Landro) | <a href="https://dddeurope.com/2019/speakers/mads-opheim/">Link</a> |
 DDD Norway meetup | Oslo, Norway | 22. Jan 2019 | Make your tests tell the story of your domain (with Anne Landro) | <a href="https://www.meetup.com/dddnorway/events/257968490/">Link</a> |
 javaBin Trondheim, JUG meeting | Trondheim, Norway | 28. Nov 2018 | IoT powered by MicroProfile - Microservices in practice (with Rustam Mehmandarov) | <a href="https://www.meetup.com/javaBin-Trondheim/events/255193377/">Link</a> |
@@ -31,7 +32,6 @@ and many more
 ## Upcoming talks
 Conference | Location | Date | Talk title | URL
 --- | --- | --- | --- | ---
-Booster | Bergen, Norway | 14. Mar 2019 | Domain driven design in the real world (with Anne Landro) | <a href="https://2019.boosterconf.no/talks/1216">Link</a>
 JavaDay | Istanbul, Turkey | 15.-16. Mar 2019 | 9 ways to test your spaghetti code | <a href="https://javaday.istanbul/">Link</a> | 
 JBCNConf | Barcelona, Catalonia | 27.-28. May 2019 | IoT powered by Microprofile – Microservices in practice (with Rustam Mehmandarov) | <a href="http://www.jbcnconf.com/2019/infoTalk.html?id=5c44693a9034ae38180b14b2">Link</a>
 Nordic Testing Days | Tallinn, Estonia | 30. May 2019 | 9 ways to test your spaghetti code | <a href="https://nordictestingdays.eu/events/tracks/9-ways-test-your-spaghetti-code">Link</a>
